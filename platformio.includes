@@ -231,3 +231,13 @@ C:/Users/admins/.platformio/packages/toolchain-xtensa-esp32/xtensa-esp32-elf/inc
 C:/Users/admins/.platformio/packages/toolchain-xtensa-esp32/lib/gcc/xtensa-esp32-elf/8.4.0/include
 C:/Users/admins/.platformio/packages/toolchain-xtensa-esp32/lib/gcc/xtensa-esp32-elf/8.4.0/include-fixed
 C:/Users/admins/.platformio/packages/toolchain-xtensa-esp32/xtensa-esp32-elf/include
+lib
+include
+test
+.
+scheme
+.pio/build
+src
+.pio/build/esp32dev
+.qtc_clangd
+test/test_blink

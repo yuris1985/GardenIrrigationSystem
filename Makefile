@@ -1,5 +1,5 @@
 all:
-	platformio -c qtcreator run
+        platformio -c qtcreator test -v
 
 # regenerate project files to reflect platformio.ini changes
 project-update:
@@ -9,4 +9,4 @@ project-update:
 
 # forward any other target (clean, build, etc.) to pio run
 %:
-	platformio -c qtcreator run --target $*
+        platformio -c qtcreator run --target $*
